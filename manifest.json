@@ -1,0 +1,14 @@
+{
+    "manifest_version":2,
+    "name":"Close Tab",
+    "version":"1.0.0",
+    "description":"This will close your tab for matched word",
+    "browser_action":{
+        "default_icon":{
+            "16":"16.png"
+        }
+    },
+    
+    
+
+}
